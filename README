@@ -1,0 +1,10 @@
+Prime decoder app
+
+to run
+./prime_dec.rb
+
+experimenting with finding prime numbers. But came to the conclusion that :
+By DEFINITION the ONLY building block for a PRIME number, is the number 1.
+
+to run tests
+rspec prime_dec.rb prime_dec_spec.rb --color --format doc
